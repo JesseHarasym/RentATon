@@ -13,6 +13,7 @@ After you have decided on a topic, you must determine the scope of your project.
 3. A networked connection to and/or from the application. For example: networked Google services such as Places or third party APIs.
 
 If you are having trouble listing your features, consider creating them as user stories. A user story is a one or two sentence description of a feature from the perspective of what a user might want to do. For example, if your application is a grocery shopping list, your user stories might be something like:
+https://user-images.githubusercontent.com/51863533/107078634-cf4e0f00-67ab-11eb-8fd0-79d29a3bda9f.jpg
 
 - As a user, I want to have a login screen.
 - As a user, I want to see an animated weather summary for my current location.
