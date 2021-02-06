@@ -24,4 +24,4 @@ After clicking on the details button, the user is taken into a third screen wher
  
 ### Project Wireframe
 
- ![alt text](https://user-images.githubusercontent.com/51863533/107104929-1f939400-67e1-11eb-92cd-610e8d8e6646.jpgg)
+ ![alt text](https://raw.githubusercontent.com/JesseHarasym/RentATon/main/Proposal/project-wireframe.jpg?token=AMLV73LJO5BMBXINB7UTMHDADXZ5K)
